@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - projects.qmd
       - resume.qmd
+      - projects.qmd
       - f1-racetracks.qmd
 
 format:
