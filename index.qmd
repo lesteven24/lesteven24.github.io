@@ -1,5 +1,5 @@
 ---
-title: "steven-le.github.io"
+title: "Steven Le"
 ---
 
 This is a Quarto website.
