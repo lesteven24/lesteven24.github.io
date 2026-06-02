@@ -12,8 +12,7 @@ about:
       href: https://github.com/lesteven24
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/lesteven42/
-      target: _blank
+      href: https://linkedin.com/in/lesteven42
     - icon: envelope
       text: Email
       href: mailto:steven812@ucsb.edu
