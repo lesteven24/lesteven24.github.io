@@ -2,7 +2,6 @@
 title: "Steven Le"
 image: photo.jpg
 toc: false
-css: styles.css
 about:
   template: trestles
   image-shape: rounded
