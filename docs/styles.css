@@ -2,3 +2,8 @@
 .quarto-about-trestles {
     align-items: center;
 }
+.about-contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
