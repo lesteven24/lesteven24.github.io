@@ -13,6 +13,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/lesteven42/
+      target: _blank
     - icon: envelope
       text: Email
       href: mailto:steven812@ucsb.edu
