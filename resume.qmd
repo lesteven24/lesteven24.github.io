@@ -1,12 +1,14 @@
 ---
 title: "Resume"
-format: html
+toc: false
+lightbox: 
+  css-class: "styles"
 ---
 
 As of 6/2/2026
 
 ------------------------------------------------------------------------
 
-<iframe src="Le_Resume.pdf" width="75%" height="750px" style="border: none;"></iframe>
+![](Le_Resume.pdf){width="100%" height="700px"}
 
 ------------------------------------------------------------------------
