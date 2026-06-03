@@ -20,7 +20,7 @@ The only place I have been to exactly once every year since 2023 is San Diego, w
 
 ![Picture I took of the bay in Nha Trang, Vietnam](photos/IMG_8436.jpg)
 
-![Spectacular view of Convict Lake in the winter](photos/IMG_0067.jpg) 
+![Spectacular view of Convict Lake (Sierra Nevadas) in the wintertime](photos/IMG_0067.jpg) 
 
 ![A colorful mural in downtown San Diego](photos/IMG_8246.jpg)
 :::
@@ -37,9 +37,9 @@ Things I like to do actively on my own time are mainly cardio-related activities
 
 ::: {layout="[[1, 1, 1]]"}
 
-![Kyle Busch winning the NASCAR race at Kentucky in July 2015 (RIP as he unfortunately passed away in May 2026](photos/IMG_4098.jpg)
+![Kyle Busch winning the NASCAR race at Kentucky in July 2015 (RIP as he unfortunately passed away in May 2026)](photos/IMG_4098.jpg)
 
-![Me at an Anaheim Ducks home game versus the San Jose Sharks (we sadly lost)](photos/IMG_3197.jpg)
+![Me at an Anaheim Ducks home game versus the San Jose Sharks](photos/IMG_3197.jpg)
 
 ![On board a China Airlines A350-900 at Taipei Taoyuan International Airport](photos/IMG_8409.jpg)
 :::
@@ -56,5 +56,5 @@ As a fan of motorsports racing, as mentioned before, I do love to collect diecas
 
 ![A Leafeon VMAX (Alternate Art Secret) #205/203 PSA Grade 10 I own](photos/IMG_2331.jpg)
 
-![A few of the 1:64 scale NASCAR diecast models I have](photos/IMG_4136.jpg) 
+![A few of the 1:64 scale NASCAR diecast models I have](photos/IMG_5818.jpg) 
 :::
