@@ -14,13 +14,13 @@ My parents use to take my siblings and me to many different places when I was ve
 
 Ever since I began my education at UC Santa Barbara, I have been going on trips to the Sierra Nevadas annually for research or academic-related purposes, which has been a gift in of itself since the region has some of the most spectacular scenery I have ever seen.  I am proud to consider it a second-home at this point since I am very familiar with the area and its natural environment.  
 
-The only place that I have been to exactly once every year since 2023 is San Diego, which is uncanny since each visit was for different reasons.  The most memorable trip was when my friends and I rented out an Airbnb in Chula Vista for a five-day weekday hangout after our first year in college.  I can definitely say that the city is extremely beautiful and its climate is basically a reflection of what Santa Barbara's is.  
+The only place I have been to exactly once every year since 2023 is San Diego, which is uncanny since each visit was for different reasons.  The most memorable trip was when my friends and I rented out an Airbnb in Chula Vista for a five-day weekday hangout after our first year in college.  I can definitely say the city is extremely beautiful and its climate is basically a reflection of what Santa Barbara's is.  
 
 ::: {layout="[[1, 1, 1]]"}
 
 ![]()
 
-![]()
+![]() 
 
 ![]()
 :::
@@ -29,7 +29,11 @@ The only place that I have been to exactly once every year since 2023 is San Die
 
 ## Hobbies
 
+I love to watch motorsports racing, particularly NASCAR, Indycar, and Formula 1 on the weekends.  I remember first getting into watching it around ten years ago on my TV and since then, my knowledge about drivers and cars has only grown.  I have not been to many races but just this past April (2026), I attended the Acura Grand Prix of Long Beach.  
 
+The other main sport I enjoy watching is ice hockey, especially because I have a hometown team, that being the Anaheim Ducks.  I have been watching since 2017 and although my team has not been good up until this year (2026), I enjoy watching almost every game from other teams and like to cheer on my favorite players like Elias Pettersson or Trevor Zegras.  
+
+Things I like to do actively on my own time are mainly cardio-related activities like hiking, running, and biking since I admire the outdoors.  However, a niche thing about me I mentioned briefly earlier is that I love planes in general.  There is just something that I love about seeing different kinds of planes/airlines and watching them come/go that gets me excited whenever I do catch them.  
 
 ::: {layout="[[1, 1, 1]]"}
 
@@ -50,7 +54,7 @@ The only place that I have been to exactly once every year since 2023 is San Die
 
 ![]()
 
-![]()
+![]() 
 
 ![]()
 :::
