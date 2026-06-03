@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+toc: false
 ---
 
 As of 2 June 2026
