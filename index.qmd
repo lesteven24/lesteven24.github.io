@@ -1,7 +1,7 @@
 ---
 title: "Steven Le"
-image: photos/photo.jpg
 toc: false
+image: photos/photo.jpg
 about:
   template: trestles
   image-shape: round
