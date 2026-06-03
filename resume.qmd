@@ -5,4 +5,8 @@ format: html
 
 As of 6/2/2026
 
-<iframe src="Le_Resume.pdf" width="100%" height="600px" style="border: none;"></iframe>
+------------------------------------------------------------------------
+
+<iframe src="Le_Resume.pdf" width="75%" height="750px" style="border: none;"></iframe>
+
+------------------------------------------------------------------------
