@@ -2,3 +2,55 @@
 title: "About Me"
 ---
 
+--- 
+
+Before going to college, I had lived all of my life in the Little Saigon area of Orange County, Southern California.  However, I chose to go school, away from home, at UC Santa Barbara due to its outstanding environmental studies program and location/weather.  My current research interests are in pollution remediation, renewable energy, forestry, and environmental challenges of urban communities.
+
+--- 
+
+## Places
+
+My parents use to take my siblings and me to many different places when I was very young, so I had little to no memories of it.  However, we still go to Vietnam every few years during the summer to visit my extended family, which is very fun since I love flying on planes and plane spotting.  Although Vietnam's cities are heavily congested and tourist-dense, the countryside is where I get nostalgic memories since it envelops me in the culture my parents lived in.  
+
+Ever since I began my education at UC Santa Barbara, I have been going on trips to the Sierra Nevadas annually for research or academic-related purposes, which has been a gift in of itself since the region has some of the most spectacular scenery I have ever seen.  I am proud to consider it a second-home at this point since I am very familiar with the area and its natural environment.  
+
+The only place that I have been to exactly once every year since 2023 is San Diego, which is uncanny since each visit was for different reasons.  The most memorable trip was when my friends and I rented out an Airbnb in Chula Vista for a five-day weekday hangout after our first year in college.  I can definitely say that the city is extremely beautiful and its climate is basically a reflection of what Santa Barbara's is.  
+
+::: {layout="[[1, 1, 1]]"}
+
+![]()
+
+![]()
+
+![]()
+:::
+
+--- 
+
+## Hobbies
+
+
+
+::: {layout="[[1, 1, 1]]"}
+
+![]()
+
+![]()
+
+![]()
+:::
+
+--- 
+
+## Collectibles
+
+
+
+::: {layout="[[1, 1, 1]]"}
+
+![]()
+
+![]()
+
+![]()
+:::

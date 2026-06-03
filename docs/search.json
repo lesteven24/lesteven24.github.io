@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Before going to college, I had lived all of my life in the Little Saigon area of Orange County, Southern California. However, I chose to go school, away from home, at UC Santa Barbara due to its outstanding environmental studies program and location/weather. My current research interests are in pollution remediation, renewable energy, forestry, and environmental challenges of urban communities."
+  },
+  {
+    "objectID": "about.html#places",
+    "href": "about.html#places",
+    "title": "About Me",
+    "section": "Places",
+    "text": "Places\nMy parents use to take my siblings and me to many different places when I was very young, so I had little to no memories of it. However, we still go to Vietnam every few years during the summer to visit my extended family, which is very fun since I love flying on planes and plane spotting. Although Vietnam’s cities are heavily congested and tourist-dense, the countryside is where I get nostalgic memories since it envelops me in the culture my parents lived in.\nEver since I began my education at UC Santa Barbara, I have been going on trips to the Sierra Nevadas annually for research or academic-related purposes, which has been a gift in of itself since the region has some of the most spectacular scenery I have ever seen. I am proud to consider it a second-home at this point since I am very familiar with the area and its natural environment.\nThe only place that I have been to exactly once every year since 2023 is San Diego, which is uncanny since each visit was for different reasons. The most memorable trip was when my friends and I rented out an Airbnb in Chula Vista for a five-day weekday hangout after our first year in college. I can definitely say that the city is extremely beautiful and its climate is basically a reflection of what Santa Barbara’s is."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "Hobbies",
+    "text": "Hobbies"
+  },
+  {
+    "objectID": "about.html#collectibles",
+    "href": "about.html#collectibles",
+    "title": "About Me",
+    "section": "Collectibles",
+    "text": "Collectibles"
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
