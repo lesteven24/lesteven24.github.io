@@ -15,8 +15,9 @@ website:
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: 
+    - sandstone
+    - styles.scss
     mainfont: Gelasio 
     toc: true
     page-layout: full

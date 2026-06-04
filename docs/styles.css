@@ -1,8 +1,0 @@
-/* css styles */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
-
-.navbar {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  font-weight: 500; 
-  letter-spacing: 0.01em;}
