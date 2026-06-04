@@ -1,10 +1,5 @@
 ---
 title: "Projects"
-toc: false
-format:
-  html:
-    grid:
-      margin-width: 0px
 listing:
   contents: posts
   type: grid
