@@ -4,7 +4,7 @@ description: "A coding project I completed for ENV S 193DS: Statistics for Envir
 author:
   - name: Steven Le
 date: 06-04-2026
-categories: [RStudio, Data Visualization]
+categories: [RStudio, Data Visualization, Class Project]
 draft: false
 ---
 
