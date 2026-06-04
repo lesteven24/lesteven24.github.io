@@ -1,10 +1,10 @@
 ---
 title: "Leaf Angle and Water Availability"
-description: "Analyzing leaf angle and  water potential in drought conditions from two California oak species"
+description: "Analyzing leaf angle and  water potential in drought-stressed conditions from two oak species"
 author:
   - name: Steven Le
 date: 05-02-2026
-categories: [RStudio, Data Visualization, Lab Project]
+categories: [RStudio, Data Visualization, Lab Work, Research Project]
 image: tree-image.jpg
 draft: false
 ---
