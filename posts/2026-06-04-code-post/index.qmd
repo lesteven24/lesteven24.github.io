@@ -1,15 +1,20 @@
 ---
 title: "Frequency of Refilling My Water Bottle"
 description: "A coding project I completed for ENV S 193DS: Statistics for Environmental Science"
-author:
-  - name: Steven Le
 date: 06-04-2026
 categories: [RStudio, Data Visualization, Class Project]
 image: blue-bottle.jpg
 draft: false
+execute:
+  warning: false
+  message: false
 ---
 
+A relationship question I wanted to look into was how does temperature influence how often I refill my water bottle?  However, I knew there was going to be other variables involved that may affect the data for temperature and the frequency I refilled.  Therefore, every day from 4/26 to 6/4, for every time I refilled my water bottle, I would record the temperature, the amount of classes I had up until then, the weather, how many times I ate up until then, and if I had exercised or not.
 
+---
+
+To organize my data, I cleaned up the column names for my explanatory variables and capitalized the label names from the weather column.  
 
 ```{r}
 
@@ -39,13 +44,13 @@ personal_clean <- personal |>
 
 ---
 
-
+Before making a plot between temperature and the frequency of refilling my water bottle, I wanted to make a plot that evaluated the data of another explanatory variable.  In this case, I picked out weather and created a bar chart, so it would compare the frequencies among my four weather labels that occurred during the whole duration of my data collection: cloudy, night, sunny, and windy.  Looking at the bar chart, I refill my water bottle the most times when it is sunny, which makes sense since the weather in Santa Barbara is immaculate more often than not.   
 
 ```{r}
 
 #base layer: ggplot with x-axis
 ggplot(data = personal_clean, 
-#x-axis is weather and y-axis is frequency of refilling water bottle       
+#x-axis is weather and y-axis is frequency of refilling water bottle
        mapping = aes(x = weather)) +
 #changed bar colors for all weather types   
   geom_bar(fill = "navyblue") +
@@ -69,7 +74,7 @@ subtitle = "June 4 May 2026") +
 
 ---
 
-
+The best way to plot the data between temperature and the frequency I refill my water bottle was through a scatterplot since I am evaluating whether or not exactly two variables are related to each other.  The x-axis would be the temperature (°F) and the y-axis would be the frequency that I refilled my water bottle.  Unfortunately though, when I plotted all of these points, many of them were basically scattered throughout the whole figure, so there did not seem to a correlation between both variables.  
 
 ```{r}
 
