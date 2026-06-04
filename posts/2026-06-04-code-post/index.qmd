@@ -5,6 +5,7 @@ author:
   - name: Steven Le
 date: 06-04-2026
 categories: [RStudio, Data Visualization, Class Project]
+image: blue-bottle.jpg
 draft: false
 ---
 
