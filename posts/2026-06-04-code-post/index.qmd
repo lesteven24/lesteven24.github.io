@@ -9,3 +9,86 @@ image: blue-bottle.jpg
 draft: false
 ---
 
+
+
+```{r}
+
+#read in packages
+library(tidyverse)
+library(here)
+library(janitor)
+#stored personal data as an object called personal
+personal <- read_csv(here("data", "personal.csv"))
+
+#created new object from personal
+personal_clean <- personal |>
+#cleaned column names    
+  clean_names() |> 
+#mutated the existing weather column  
+  mutate(weather = case_when(
+#filled in Sunny to replace sunny    
+    weather == "sunny"  ~ "Sunny",
+#filled in Cloudy to replace cloudy    
+    weather == "cloudy" ~ "Cloudy",
+#filled in Windy to replace windy    
+    weather == "windy"  ~ "Windy",
+#filled in Night to replace night    
+    weather == "night"  ~ "Night"))
+
+```
+
+---
+
+
+
+```{r}
+
+#base layer: ggplot with x-axis
+ggplot(data = personal_clean, 
+#x-axis is weather and y-axis is frequency of refilling water bottle       
+       mapping = aes(x = weather)) +
+#changed bar colors for all weather types   
+  geom_bar(fill = "navyblue") +
+#changed the label for x-axis: Weather 
+  labs(x = "Weather",
+#changed the label for y-axis: Frequency of Refilling Water Bottle        
+       y = "Frequency of Refilling Water Bottle",
+#added a title to the bar chart        
+       title = "Frequency of Refilling Water Bottle Based on Weather",
+#added a subtitle
+subtitle = "June 4 May 2026") +
+#used a different theme from default  
+  theme_minimal() +
+#removed panel background  
+  theme(panel.background = element_blank()) + 
+#removed major and minor gridlines   
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()) 
+
+```
+
+---
+
+
+
+```{r}
+
+#base layer: ggplot
+ggplot(data = personal_clean, 
+#x-axis: temperature (Fahrenheit)
+       mapping = aes(x = temperature_f)) +
+#develops a scatterplot for frequency response variables, which can have colors
+  geom_point(stat = "count", color = "darkred", size = 1) + 
+#relabel x- and y-axes, added a subtitle
+  labs(x = "Temperature (°F)",
+       y = "Frequency of Refilling Water Bottle",
+       subtitle = "June 4 2026") + 
+#changed theme from default  
+  theme_minimal()+
+#removed panel background  
+  theme(panel.background = element_blank()) + 
+#removed major and minor gridlines   
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()) 
+
+```
