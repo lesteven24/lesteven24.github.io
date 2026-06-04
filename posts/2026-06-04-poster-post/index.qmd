@@ -1,10 +1,16 @@
 ---
 title: "Leaf Angle and Water Availability"
-description: "My research poster I presented at the EEMB Undergraduate Research Symposium"
+description: "Analyzing leaf angle and  water potential in drought conditions from two California oak species"
 author:
   - name: Steven Le
-date: 06-04-2026
+date: 05-02-2026
 categories: [RStudio, Data Visualization, Lab Project]
+image: tree-image.jpg
 draft: false
 ---
 
+------------------------------------------------------------------------
+
+![](leaf-image.pdf){width="100%" height="500px"}
+
+------------------------------------------------------------------------
