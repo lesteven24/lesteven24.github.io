@@ -1,0 +1,10 @@
+---
+title: "Leaf Angle and Water Availability"
+description: "My research poster I presented at the EEMB Undergraduate Research Symposium"
+author:
+  - name: Steven Le
+date: 06-04-2026
+categories: [RStudio, Data Visualization, Research Project]
+draft: false
+---
+
