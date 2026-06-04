@@ -15,8 +15,8 @@ website:
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: 
+    - sandstone
     toc: true
     page-layout: full
 
