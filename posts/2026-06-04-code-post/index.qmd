@@ -1,0 +1,10 @@
+---
+title: "Frequency of Refilling My Water Bottle"
+description: A coding project I worked on for ENV S 193DS: Statistics for Environmental Science
+author:
+  - name: Steven Le
+date: 06-04-2026
+categories: [RStudio, Data Visualization]
+draft: false
+---
+
