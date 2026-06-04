@@ -17,7 +17,8 @@ format:
   html:
     theme: 
     - sandstone
-    toc: true
+    mainfont: IBM Plex Serif
+    toc: true 
     page-layout: full
 
 
