@@ -59,9 +59,7 @@ ggplot(data = personal_clean,
 #changed the label for y-axis: Frequency of Refilling Water Bottle        
        y = "Frequency of Refilling Water Bottle",
 #added a title to the bar chart        
-       title = "Frequency of Refilling Water Bottle Based on Weather",
-#added a subtitle
-subtitle = "June 4 May 2026") +
+       title = "Frequency of Refilling Water Bottle Based on Weather") +
 #used a different theme from default  
   theme_minimal() +
 #removed panel background  
@@ -84,10 +82,10 @@ ggplot(data = personal_clean,
        mapping = aes(x = temperature_f)) +
 #develops a scatterplot for frequency response variables, which can have colors
   geom_point(stat = "count", color = "darkred", size = 1) + 
-#relabel x- and y-axes, added a subtitle
+#relabel x- and y-axes, added a title
   labs(x = "Temperature (°F)",
        y = "Frequency of Refilling Water Bottle",
-       subtitle = "June 4 2026") + 
+       title = "Frequency of Refilling Water Bottle Depending on Temperature") + 
 #changed theme from default  
   theme_minimal()+
 #removed panel background  
