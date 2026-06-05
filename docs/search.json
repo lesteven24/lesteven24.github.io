@@ -56,6 +56,13 @@
     "text": "As of June 2, 2026"
   },
   {
+    "objectID": "posts/2026-06-04-poster-post/index.html",
+    "href": "posts/2026-06-04-poster-post/index.html",
+    "title": "Leaf Angle and Water Availability",
+    "section": "",
+    "text": "I began working on this research project since the start of the Fall 2025 quarter with the guidance of my PhD student mentor in the LEAF Lab. Most of that time was spent measuring leaves one-by-one from photographs that the lab collected from Sedgwick Reserve. However, coding the data was more difficult at times since I was just learning how to use R-programming consistently."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",

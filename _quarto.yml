@@ -12,6 +12,7 @@ website:
       - resume.qmd
       - projects.qmd
       - f1-racetracks.qmd
+    background: "#dfc7b4"
 
 format:
   html:
