@@ -1,6 +1,6 @@
 ---
 title: "Coastal Erosion Along Central and Southern California"
-description: "A group project for ENV S 154: Geographic Information Systems (GIS) for Environmental Applications"
+description: "A GIS group project for ENV S 154: GIS for Environmental Applications"
 date: 06-11-2026
 categories: [GIS, Data Visualization, Class Project]
 image: erosion.jpeg
