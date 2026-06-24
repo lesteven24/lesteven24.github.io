@@ -1,0 +1,18 @@
+---
+title: "Whitebark Pine Health in the Sierra Nevadas"
+description: "Analyzing characteristics of healthy and unhealthy trees in Mammoth Lakes, California"
+date: 08-24-2024
+categories: [RStudio, Data Visualization, Field Work, Research Project]
+image: wbp_image.jpg
+draft: false
+---
+
+---
+
+This was my first-ever research project I was involved in as an undergraduate student, albeit a mini project that only lasted for two weeks.  However, my group became exposed to field work and R coding during that time as we chose one of three projects to work on, under the guidance of Dr. Hofmann.  The experience helped introduced me to the expectations of research and the work ethic required.  
+
+------------------------------------------------------------------------
+
+![](wbp_presentation.pdf){width="100%" height="1000px"}
+
+------------------------------------------------------------------------
