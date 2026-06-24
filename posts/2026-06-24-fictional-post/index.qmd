@@ -1,6 +1,6 @@
 ---
 title: "Marianella Training Center Renovation"
-description: "A fictional group project plan I completed for TMP X450: Introduction to Project Management"
+description: "A fictional group project plan I worked on for TMP X450: Introduction to Project Management"
 date: 06-08-2026
 categories: [Excel, Qualitative Visualization, Class Project]
 image: soccer.jpg
