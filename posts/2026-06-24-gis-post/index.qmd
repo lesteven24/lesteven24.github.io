@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-
+In order to apply GIS skills we learned from lab assignments, we had to work on a group project that analyzed our own research question.  Most of the work required had us combining different data layers on ArcGIS Pro and actively adjusting our modelbuilder diagram/steps.  On the final week of the quarter, we presented a story map to the class that highlighted our evaluations of the map and data.    
 
 ------------------------------------------------------------------------
 
